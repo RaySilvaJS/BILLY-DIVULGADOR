@@ -1,0 +1,14 @@
+{
+  "author": "@Tobi",
+  "license": "MIT",
+  "dependencies": {
+    "util": "",
+    "chalk": "^4.1.2",
+    "cfonts": "^3.1.0",
+    "qrcode-terminal": "",
+    "@whiskeysockets/baileys": "^6.7.13"
+  },
+  "scripts": {
+    "start": "sh start.sh"
+  }
+}
