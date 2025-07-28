@@ -26,7 +26,7 @@ async function startIndex() {
         level: "silent",
       }),
       browser: ["NS Multi Device", "Chrome", "3.0"],
-      version,
+      version: [2, 3000, 1025091846],
       auth: state,
     }));
 
